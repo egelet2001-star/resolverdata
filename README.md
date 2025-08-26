@@ -1,0 +1,2 @@
+# resolverdata
+lua test
